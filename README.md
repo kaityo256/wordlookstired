@@ -1,6 +1,6 @@
 # はじめに
 
-これは[Wordさんは今日もおつかれです](http://qiita.com/kaityo256/items/c15889dbb7acb2632c6e)@(Qiita)[http://qiita.com/]を書くために作ったスクリプトです。指定されたdocxファイルをテンポラリディレクトリに展開し、RubyのREXMLで読み込んでREXML::Formatters::Prettyで適当に表示するものです。
+これは[Wordさんは今日もおつかれです](http://qiita.com/kaityo256/items/c15889dbb7acb2632c6e)@Qiitaを書くために作ったスクリプトです。指定されたdocxファイルをテンポラリディレクトリに展開し、RubyのREXMLで読み込んでREXML::Formatters::Prettyで適当に表示するものです。
 
 # case1
 
